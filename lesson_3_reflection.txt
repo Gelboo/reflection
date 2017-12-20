@@ -1,4 +1,6 @@
 When would you want to use a remote repository rather than keeping all your work local?
   when you share your work with friend 
   
+  git remote add origin  https://github.com/Gelboo/reflection.git
+  
   git push origin master
